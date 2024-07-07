@@ -21,7 +21,7 @@ WITHOUT THE DATABASE THE PROJECT WON'T RUN.
 ***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
 
 
-***** FOR MORE PROJECTS :- https://code-projects.org/ *****
+***** FOR MORE PROJECTS *****
 
 
 
